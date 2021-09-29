@@ -1,0 +1,16 @@
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\StrangleGame.exe
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\StrangleGame.deps.json
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\StrangleGame.runtimeconfig.json
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\StrangleGame.runtimeconfig.dev.json
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\StrangleGame.dll
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\ref\StrangleGame.dll
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\bin\Debug\net5.0\StrangleGame.pdb
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.csprojAssemblyReference.cache
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.AssemblyInfoInputs.cache
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.AssemblyInfo.cs
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.csproj.CoreCompileInputs.cache
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.dll
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\ref\StrangleGame.dll
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.pdb
+D:\SummIT\Proyectos\curso_c#\Proyecto\StrangleGame\obj\Debug\net5.0\StrangleGame.genruntimeconfig.cache
