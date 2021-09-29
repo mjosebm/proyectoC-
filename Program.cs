@@ -29,6 +29,7 @@ namespace StrangleGame
                     case "1":
                         Console.WriteLine("Vamos a jugar");
                         Game game = new Game();
+                        game.play();
                         break;
                     case "2":
                         Console.ForegroundColor = ConsoleColor.Cyan;
