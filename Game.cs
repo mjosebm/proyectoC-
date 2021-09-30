@@ -138,7 +138,9 @@ namespace StrangleGame
 
         private string GetHideWord() {
             List<string> hideWords = LoadWordChars();
-            return "";
+            Random random = new Random();
+            int numberRandom = random.Next(0, hideWords.Count);
+            return hideWords[numberRandom];
         }
         
         private void CheckExistCharInWord(char inputChar)
